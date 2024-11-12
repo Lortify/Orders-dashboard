@@ -1,6 +1,6 @@
 # Orders-Dashboard
 
-### Dashboard Link : [https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection](https://app.powerbi.com/groups/me/reports/80e7acec-8ccd-4f81-837f-215cb5a49793/ReportSection1634d9a0cda13c029978?experience=power-bi)
+### Dashboard Link : https://app.powerbi.com/groups/me/reports/80e7acec-8ccd-4f81-837f-215cb5a49793/ReportSection1634d9a0cda13c029978?experience=power-bi
 
 ## Problem Statement
 
